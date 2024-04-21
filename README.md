@@ -1,16 +1,15 @@
-# examdemo
+# Program 4
 
-A new Flutter project.
+### Login Screen 
 
-## Getting Started
+### Home Screen 
+1. Sno (TextEditor)
+2. Sname (TextEditor)
+3. Sage (TextEditor)
+4. Gender (RadioButtons)
+5. Qualification (Checkboxes)
+6. Submit (ElevatedButton)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Profile Screen
+- All Data in table formate
+- Logout Button 
